@@ -378,12 +378,12 @@ reportページ
 profileページ
 ================================================= */
 
-<style>
+
 .sample3_btn {
     display: inline-block;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
-    color: rgb(255, 183, 183);
+    color: rgb(235, 244, 217);
     background: pink;
     font-weight: bold;
     border: solid 4px pink;
@@ -391,10 +391,11 @@ profileページ
 }
 
 .sample3_btn:hover {
-    background: white;
-    color: pink;
+    background: rgb(255, 192, 203);
+    color: white;
 }
-</style>
+
+
 
 
 .profile_container{
