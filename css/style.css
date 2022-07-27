@@ -92,7 +92,7 @@ header .inner {
 /* ロゴ */
 #header_logo img {
   display: block;
-  width: 100px;
+  width: 45px;
 }
 
 /* メニュー */
@@ -197,7 +197,7 @@ body.contents_page {/* classにcontents_pageが指定されているbodyタグ *
 ================================================= */
 .top_eye_catch {
   height: 500px;
-  font-size: 25px;
+  font-size: 35px;
   color: #fff;
   font-weight: bold;
   background-image: url(../images/000001.JPG);/* 背景画像 */
