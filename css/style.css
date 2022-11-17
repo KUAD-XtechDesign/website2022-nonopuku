@@ -198,7 +198,7 @@ body.contents_page {/* classにcontents_pageが指定されているbodyタグ *
 .top_eye_catch {
   height: 500px;
   font-size: 35px;
-  color: #fff;
+  color: rgb(255, 255, 255);
   font-weight: bold;
   background-image: url(../images/000001.JPG);/* 背景画像 */
   background-size: cover;/* 背景画像のサイズ 要素いっぱいに表示 */
